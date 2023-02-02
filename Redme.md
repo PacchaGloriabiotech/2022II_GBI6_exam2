@@ -20,3 +20,4 @@
   <td>HP</td>
  <td>7ma</td>
  <td>Intelcore</td>
+  <td> 6MB</td>
